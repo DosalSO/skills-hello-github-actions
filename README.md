@@ -1,59 +1,32 @@
-<header>
+Week 1–2: Planning Stage  
+- I thought deeply about the kind of application I wanted to create.  
+- I had many ideas, but they seemed difficult to execute, and I kept wondering whether I could pull them off or not.  
+- Eventually, I realized what I truly wanted the Queen's Stage application.  
+- So, I started planning what would make my application, Queen's Stage, stand out.  
+- I worked on the design, color scheme, and other details.  
 
-# Hello GitHub Actions
+Week 3–4: Research 
+- I researched similar projects that I could use as inspiration but aimed to create something unique and spectacular.  
+- I identified the **target audience** and their needs.  
+- I chose the tools, technologies, and platforms to use, including **Flutter** for Queen's Stage.  
 
-_Create and run a GitHub Actions workflow._
+Week 5–6: Installing Flutter and Android Studio and Testing 
+- Initially, installing Flutter was challenging because it required multiple connections to set up.  
+- Next was Android Studio, which was also difficult to install.  
+- Finally, after many attempts, I managed to install everything.  
+- However, whenever I clicked something, additional installations were required.  
+- I sought help from Keith, and thankfully, I was able to complete the installation without repeating the process.  
+- Afterward, I searched for codes to try, and luckily, they worked and functioned as expected.  
 
-</header>
+Week 7: Creating the UI  
+- For the UI, I initially created sketches since I wasn’t informed that there were other tools available for it. 
+- Drawing the designs helped me clarify my ideas.  
+- Unfortunately, during my presentation, I didn’t have a proper UI to showcase.  
 
-## Step 1: Create a workflow file
+Week 7: Presentation/Approval
+- I presented my application with nervousness and shyness, but I was able to finish my proposal.  
+- Thank you, Sir, for approving my proposal!  
 
-_Welcome to "Hello GitHub Actions"! :wave:_
-
-**What is _GitHub Actions_?**: GitHub Actions is a flexible way to automate nearly every aspect of your team's software workflow. You can automate testing, continuously deploy, review code, manage issues and pull requests, and much more. The best part, these workflows are stored as code in your repository and easily shared and reused across teams. To learn more, check out these resources:
-
-- The GitHub Actions feature page, see [GitHub Actions](https://github.com/features/actions).
-- The "GitHub Actions" user documentation, see [GitHub Actions](https://docs.github.com/actions).
-
-**What is a _workflow_?**: A workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event.
-
-- To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
-- If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
-
-To get you started, we ran an Actions workflow in your new repository that, among other things, created a branch for you to work in, called `welcome-workflow`.
-
-### :keyboard: Activity: Create a workflow file
-
-1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-1. Create a pull request. This will contain all of the changes you'll make throughout this part of the course.
-
-   Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:welcome-workflow`, click **Create pull request**, then click **Create pull request** again.
-
-1. Navigate to the **Code** tab.
-1. From the **main** branch dropdown, click on the **welcome-workflow** branch.
-1. Navigate to the `.github/workflows/` folder, then select **Add file** and click on **Create new file**.
-1. In the **Name your file** field, enter `welcome.yml`.
-1. Add the following content to the `welcome.yml` file:
-
-   ```yaml copy
-   name: Post welcome comment
-   on:
-     pull_request:
-       types: [opened]
-   permissions:
-     pull-requests: write
-   ```
-
-1. To commit your changes, click **Commit changes**.
-1. Type a commit message, select **Commit directly to the welcome-workflow branch** and click **Commit changes**.
-1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). A separate Actions workflow in the repository (not the workflow you created) will run and will automatically replace the contents of this README file with instructions for the next step.
-
-<footer>
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Week 8: Continuation of the Application 
+- Now, I’ve started improving and modifying the design and code.  
+- It’s challenging, but I’m determined to keep going and make it work.  
