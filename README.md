@@ -23,10 +23,10 @@ Week 7: Creating the UI
 - Drawing the designs helped me clarify my ideas.  
 - Unfortunately, during my presentation, I didn’t have a proper UI to showcase.  
 
-Week 7: Presentation/Approval
+Week 8: Presentation/Approval
 - I presented my application with nervousness and shyness, but I was able to finish my proposal.  
 - Thank you, Sir, for approving my proposal!  
 
-Week 8: Continuation of the Application 
+Week 9: Continuation of the Application 
 - Now, I’ve started improving and modifying the design and code.  
 - It’s challenging, but I’m determined to keep going and make it work.  
